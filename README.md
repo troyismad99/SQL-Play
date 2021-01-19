@@ -1,3 +1,3 @@
 # SQL-Play
 
-A bunch of sql files.
+A bunch of sql files, mostly mysql.
