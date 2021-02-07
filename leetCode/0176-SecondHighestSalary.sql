@@ -25,7 +25,7 @@ For example, given the above Employee table, the query should return 200 as the 
 
 */
 
-/* some dupplicate test data
+/* some duplicate test data
  insert into Employee (Id, Salary) values ('4', '200')
  insert into Employee (Id, Salary) values ('5', '300')
 */
